@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The loyal martyrs or, bloody inquisiror [sic]. Being a just account of the mercenary and inhuman barbarities transacted in the Inquisition of Spain. ...</title>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26303</idno><idno type="EEBO-CITATION">99834334</idno>
+  <idno type="VID">198300</idno>
+  <idno type="EEBO-PROQUEST">2240956054</idno>
+  
+            <idno type="STC">Wing L3353B</idno>
+            <idno type="PROQUEST">99834334</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99834334e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26303)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 198300)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 21232:605)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The loyal martyrs or, bloody inquisiror [sic]. Being a just account of the mercenary and inhuman barbarities transacted in the Inquisition of Spain. ...</title>
+               </titleStmt>
+               <extent>1 sheet   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London?,</pubPlace>
+                  <date>1710?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse - "Of all the nations in the universe,".</note>
+                  <note>The text is in four columns, divided by rules.</note>
+                  <note>On the execution of Mr. Arrowsmith and his wife.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:198300:1"/>
+            <head>THE <hi>Loyal Martyrs; or, Bloody Inquisiror.</hi>
+            </head>
+            <head type="sub">BEING A just Account of the Mercenary and Inhuman Barbarities transacted in the Inquisition of <hi>Spain.</hi>
+            </head>
+            <argument>
+               <p>Shewing, How a Gentleman having married, a young Lady in St <hi>James's Street,</hi> they agreed to travel together for the Space of five Years, to see foreign Parts. How as soon as they came to <hi>Spain,</hi> intending to take a View of the Place, they were both seiz'd by Order of the Inquisitor. Also how they were separately examined and charged with Crimes that they were innocent of. How they underwent their Punishments inflicted on them, in order to exhort a Confession from them. Like<g ref="char:EOLhyphen"/>wise, how they were tried by their Court of Justice, and condemn'd to be burnt alive. The Manner of their Behaviour at the Place of Execution, where they were tormented near two Hours before they expired, during which Time there continued a dreadful torm of Thunder and Light'ning those cruel Wretches that came to see them suffer.</p>
+            </argument>
+            <div type="part">
+               <head>How a Gentleman and his Lady tra<g ref="char:EOLhyphen"/>velled to <hi>Spain,</hi> and what Misfor<g ref="char:EOLhyphen"/>tune happened them.</head>
+               <l>OF all the Nations in the Universe,</l>
+               <l>There's none sure can compare</l>
+               <l>With <hi>Spain,</hi> for bloody Sentences,</l>
+               <l>As I'll to you declare:</l>
+               <l>The Manner of their Inquisition,</l>
+               <l>Is what I shall relate:</l>
+               <l>A beauteous Couple, as we hear,</l>
+               <l>Fell in their Hands of late.</l>
+               <l>first will let you understand,</l>
+               <l>This 'Squire's Name and Place</l>
+               <l>Of dwelling, when he left this Land,</l>
+               <l>Which prov'd unfortunate.</l>
+               <l>He liv'd in <hi>St James's Street,</hi>
+               </l>
+               <l>
+                  <hi>Arrow Smith</hi> was his Name;</l>
+               <l>He had four hundred Pounds a Year.</l>
+               <l>With his Lady of Fame.</l>
+               <l>For Beauty none could her exc<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e</l>
+               <l>She was so lovely fair;</l>
+               <l>Her Cheeks were like the fragrant Rose</l>
+               <l>Few could with her compare.</l>
+               <l>She was the Beauty of the Age,</l>
+               <l>And he as fine a Youth;</l>
+               <l>Which did each others Love engage,</l>
+               <l>As we hear for a Truth.</l>
+               <l>He says to his Lady one Day,</l>
+               <l>My Dear, will you agree.</l>
+               <l>To go with me to foreign Parts,</l>
+               <l>Their Customs for to see:</l>
+               <l>And about the Space of five Years Time</l>
+               <l>We will return-again,</l>
+               <l>Here back into our native Place,</l>
+               <l>Where we will then remain.</l>
+               <l>She answer'd Love. I'm ready to</l>
+               <l>Obey all you Commands;</l>
+               <l>And with you thro' the World will go</l>
+               <l>Freely with Heart and Hand.</l>
+               <l>I am not in the least afraid,</l>
+               <l>To travel where you please;</l>
+               <l>For you are all I value here,</l>
+               <l>My whole Support and Ea<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e.</l>
+               <l>Then Preparations soon were made,</l>
+               <l>They having both agreed, s</l>
+               <l>That first of all to <hi>Spain</hi> they'd go,</l>
+               <l>So they set out with Speed.</l>
+               <l>They took with them two serving Men,</l>
+               <l>Upon then for to wait;</l>
+               <l>But now their Scene of Misery,</l>
+               <l>To you I will relate.</l>
+               <l>A spacious Lodging there they took,</l>
+               <l>Some Days in Pleasure spent,</l>
+               <l>In viewing of the Country round,</l>
+               <l>Which was their sole Intent:</l>
+               <l>At last a wicked Jesuit,</l>
+               <l>Upon her cast an Eye,</l>
+               <l>Saying, If I do not her enjoy,</l>
+               <l>They surely both shall die.</l>
+               <l>This Villain us'd all Means he could,</l>
+               <l>To gain her Company,</l>
+               <l>But never could obtain his Ends,</l>
+               <l>To stain her Chastity:</l>
+               <l>At last he being swell'd with Rage,</l>
+               <l>And wicked Lust did burn,</l>
+               <l>He gave an Information there</l>
+               <l>Were two that would not turn.</l>
+               <l>The Inquisitor said, then let them</l>
+               <l>Be brought then before me,</l>
+               <l>To answer for their Insolence,</l>
+               <l>I'll soon make them agree:</l>
+               <l>How dare they to withstand our Laws,</l>
+               <l>That are so good and just.</l>
+               <l>If they be stubborn in their Ways,</l>
+               <l>They shall burn to Dust.</l>
+               <l>This beauteous Couple then were seiz'd</l>
+               <l>Not knowing what they meant,</l>
+               <l>The Lady fright'ned to them said,</l>
+               <l>Pray what is your Intent?</l>
+               <l>I know no Harm that we have done,</l>
+               <l>What means this sudden Strife?</l>
+               <l>They said to join in our just Cause,</l>
+               <l>Or else you'll lose your Life.</l>
+               <l>The 'Squire before the Inquisitor,</l>
+               <l>He was examined first,</l>
+               <l>To know the Reason why he did</l>
+               <l>Withstand their Laws so just.</l>
+               <l>He answer'd very boldly then,</l>
+               <l>Before that I will turn,</l>
+               <l>From the Religion I profess,</l>
+               <l>I'll sooner chuse to burn.</l>
+            </div>
+            <div type="part">
+               <head>The 'Squire and his Lady at the Inqui<g ref="char:EOLhyphen"/>sition House examining before the Inquisitor.</head>
+               <l>THE Inquisitor was then enrag'd,</l>
+               <l>Saying, Tortures; Hell, and Fire,</l>
+               <l>You surely, Sir, shall have,</l>
+               <l>Since it is your Desire:</l>
+               <l>You guilty are of many Crimes,</l>
+               <l>Though you do them deny;</l>
+               <l>But if that you'll confess and turn,</l>
+               <l>I'll use you handsomely.</l>
+               <l>Your Superstition I defy,</l>
+               <l>I've nothing more to say:</l>
+               <l>The Inquisitor gave Orders then</l>
+               <l>For to take him away.</l>
+               <l>And punish him as I'll describe,</l>
+               <l>Because he would not plead;</l>
+               <l>Which when I do relate the same,</l>
+               <l>'Twill make your Hearts to bleed.</l>
+               <l>Then in a Dungeon dismal dark,</l>
+               <l>They seperate were confin'd.</l>
+               <l>Poor Souls they little thought what Death</l>
+               <l>They had for them design'd.</l>
+               <l>The Lady she was frightened much,</l>
+               <l>And seem'd to grieve full sore;</l>
+               <l>And for to see each other's Face,</l>
+               <l>They did the Lord implore.</l>
+               <l>A Fire quickly was prepar'd,</l>
+               <l>Before it he was brought.</l>
+               <l>And mov'd Feet foremost by Degrees,</l>
+               <l>Till they his Feet had scorch'd.</l>
+               <l>He never seem'd to winch or cry,</l>
+               <l>But still endure the Pain;</l>
+               <l>And when his Life was almost spent,</l>
+               <l>They brought him back again.</l>
+               <l>The Lady next examin'd was.</l>
+               <l>Of Crimes she did not know:</l>
+               <l>The Judge said, Child if you'll confess,</l>
+               <l>I will you Mercy show.</l>
+               <l>Confess what! O Sir, she did say,</l>
+               <l>I know not what you mean;</l>
+               <l>To my dear God I will be just,</l>
+               <l>I value not your Spleen.</l>
+               <l>He said. Child if you'll but understand,</l>
+               <l>You are in a wrong Cause:</l>
+               <l>I'd have you know you're in this Land</l>
+               <l>Submit to our just Laws;</l>
+               <l>Or else you and your Husband both,</l>
+               <l>Your Trial soon shall take:</l>
+               <l>For Heretics you shall be burn'd,</l>
+               <l>If you don't it forsake.</l>
+               <l>As for your Punishments she said,</l>
+               <l>I value not a Pin.</l>
+               <l>One Thing of you I have to crave,</l>
+               <l>To see my Dear again;</l>
+               <l>And grant we both in one Urn,</l>
+               <l>Together may expire;</l>
+               <l>For this our good and glorious Cause,</l>
+               <l>Is all here I desire.</l>
+               <l>The Inquisitor said, Lady fair,</l>
+               <l>Pray don't so stubborn be,</l>
+               <l>I'll save you if you confess,</l>
+               <l>The Crimes you have done to me.</l>
+               <l>To our good Religion turn,</l>
+               <l>Then happy you may dwell;</l>
+               <l>But if you don't, you'll surely burn,</l>
+               <l>And both <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ill go to Hell.</l>
+               <l>Undauntedly she Answer made,</l>
+               <l>Your Subtile I defy,</l>
+               <l>All the Torments you can invent,</l>
+               <l>Shall ne'er make inedeny</l>
+               <l>The blessed Tracks of my dear Christ</l>
+               <l>That will my Guardian be,</l>
+               <l>Preserve me from tormenting Pains,</l>
+               <l>To all Eternity.</l>
+               <l>To the Secretary then he said,</l>
+               <l>Now I am fully bent,</l>
+               <l>Since my Commands she won't bey,</l>
+               <l>A severe Punishment.</l>
+               <l>She speedily shall undergo,</l>
+               <l>And I will see it done;</l>
+               <l>She shall severely tortur'd be,</l>
+               <l>Because she will not turn.</l>
+            </div>
+            <div type="part">
+               <head>The 'Squire and his Lady undergoing the Torture the Inquisitor put them to, because they would not turn to be <hi>Roman Catholics.</hi>
+               </head>
+               <l>THEY tied her down upon her Back,</l>
+               <l>Likewise her Hands and Feet,</l>
+               <l>Poor Soul the Cords they tied so right</l>
+               <l>On her made her sweat:</l>
+               <l>Then Water through a fine Lawn Cloth,</l>
+               <l>They pour'd down her Throat;</l>
+               <l>But still to them she'd not comply,</l>
+               <l>Though she was almost choak'd.</l>
+               <l>The Inquisitor gave Orders then,</l>
+               <l>That she should be untied.</l>
+               <l>And for their stubborn Insolence,</l>
+               <l>They both should soon be tried.</l>
+               <l>Poor Lady she was almost spent,</l>
+               <l>With their curst Cruelty;</l>
+               <l>But the first Word she spoke was this,</l>
+               <l>Before I'll turn: I'll die.</l>
+               <l>You may torment my Body here,</l>
+               <l>But cannot hurt my Soul;</l>
+               <l>With Patience I'll your Torments bear,</l>
+               <l>You ne'er shall me controul:</l>
+               <l>My blessed God is good and just,</l>
+               <l>And will stand by me still;</l>
+               <l>So I'm resolv'd still to observe</l>
+               <l>His blessed holy Will.</l>
+               <l>Sure such undaunted Courage in</l>
+               <l>Woman's seldom found;</l>
+               <l>She was sent back unto the Place,</l>
+               <l>Till she receiv'd her Doom.</l>
+               <l>'Twas in a dismal Dungeon where,</l>
+               <l>No Light was to be seen;</l>
+               <l>She valued not what she endured,</l>
+               <l>For the blest Cause she stood in.</l>
+               <l>Six Months this 'Squire and his Love,</l>
+               <l>Confin'd was in this Place;</l>
+               <l>He said, O God, grant that I</l>
+               <l>Once more may see her Face:</l>
+               <l>I value not these Wertches Spleen,</l>
+               <l>Could I preserve my Wife:</l>
+               <l>I all the Torments do defy,</l>
+               <l>I value not my Life,</l>
+               <l>Poor Souls they had a great Desire,</l>
+               <l>Each other for to see;</l>
+               <l>The Jailor that attended them,</l>
+               <l>Said, Sir, that cannot be:</l>
+               <l>You will not see your Lady fair,</l>
+               <l>Till you're to Justice brought;</l>
+               <l>And if you don't turn to our Faith,</l>
+               <l>Your Deaths are surely wrought.</l>
+               <l>In about six Weeks after this,</l>
+               <l>There did an Order come,</l>
+               <l>To bring them both to Justice Hall,</l>
+               <l>For to receive their Doom.</l>
+               <l>But when they did each other see,</l>
+               <l>With Extasy of Joy,</l>
+               <l>The Lady she fainted away,</l>
+               <l>Who could such Love annoy.</l>
+               <l>Soon as they brought her to herself,</l>
+               <l>Then came on their Trials,</l>
+               <l>And in the Cages they were put,</l>
+               <l>Places for Criminals:</l>
+               <l>Their Accusation beign read,</l>
+               <l>The Judge to them did say,</l>
+               <l>You hear Prisoners what is alledg'd,</l>
+               <l>Against you here this Day.</l>
+            </div>
+            <div type="part">
+               <head>The 'Squire and his Lady brought be<g ref="char:EOLhyphen"/>fore the Inquisitor and Judge, to take their Trial.</head>
+               <l>THE' Squire then he ask'd the Judge,</l>
+               <l>Where was his Accuser;</l>
+               <l>Sir. that is not the Custom here,</l>
+               <l>Says the Inquisitor:</l>
+               <l>One horrid Crime's laid to your Charge,</l>
+               <l>We well assured be.</l>
+               <l>That you are both guilty of it,</l>
+               <l>Which is damn'd Heresy.</l>
+               <l>And if it's so you will not turn,</l>
+               <l>Unto our heavenly Cause,</l>
+               <l>You and your Wife shall surely burn,</l>
+               <l>According to our Laws:</l>
+               <l>The Judge said to the Lady then,</l>
+               <l>If you will not comply,</l>
+               <l>You may besure your Soul's are damn'd,</l>
+               <l>To all Eternity.</l>
+               <l>Then with a smiling Countenance,</l>
+               <l>The Lady did relpy,</l>
+               <l>Your Idol Worship's what I hate;</l>
+               <l>I do your Spleen defy:</l>
+               <l>You are a Pack of Hypocrites,</l>
+               <l>I value not your Laws:</l>
+               <l>I'd lay ten thousand Lives at Stake,</l>
+               <l>For such a glorious Cause.</l>
+               <l>There is a blest Redeemer dear,</l>
+               <l>That will support us still;</l>
+               <l>And all the Tortures you invene,</l>
+               <l>Can do our Souls no ill;</l>
+               <l>Since you have doom'd us both or die,</l>
+               <l>I value not my Breath;</l>
+               <l>With Crowns of Gold we both shall meet</l>
+               <l>In Heaven, after Death.</l>
+               <l>The Inquisitor said to the Judge,</l>
+               <l>I pray the Sentence give,</l>
+               <l>For eight and forty Hours longer</l>
+               <l>They ought not for to live:</l>
+               <l>If we take all this Insolence,</l>
+               <l>And they not punish'd be,</l>
+               <l>To Christ we shall give great Offence,</l>
+               <l>For such Indulgency.</l>
+               <l>The horrid Sentence then was pass'd,</l>
+               <l>that they should burn Talive;</l>
+               <l>The Executioner was call'd,</l>
+               <l>On Purpose to contrive,</l>
+               <l>How he might die a lingring Death;</l>
+               <l>They answer soon did make,</l>
+               <l>Leave that to us for Punishment,</l>
+               <l>When they are at the Stake.</l>
+               <l>Unto the Judge with Courage bold,</l>
+               <l>The Lady she did say,</l>
+               <l>I have but one Thing more to crave,</l>
+               <l>The Time we here shall stay:</l>
+               <l>That we may in one Dungeon be.</l>
+               <l>Our Prayers to make to Christ</l>
+               <l>Who for us is preparing now</l>
+               <l>A blest and happy Feast</l>
+            </div>
+            <div type="part">
+               <head>The 'Squire and his Lady at Prayers.</head>
+               <l>THIS Favour then granted was,</l>
+               <l>At last, with much Debate,</l>
+               <l>Her Beauty was admired much,</l>
+               <l>By most that round her sat:</l>
+               <l>She was not daunted in the least,</l>
+               <l>At whhich she must go through;</l>
+               <l>Such Courage in a Woman sure,</l>
+               <l>Before I never knew.</l>
+               <l>Then in a Dungeon they were put,</l>
+               <l>Where they could see no Light;</l>
+               <l>In offerring Prayers, and singing Hymns,</l>
+               <l>They pass'd away the Night:</l>
+               <l>The fatal Morning being come,</l>
+               <l>That they must marty'd be,</l>
+               <l>The Jailor said, now Order's brought,</l>
+               <l>That you must go with me.</l>
+               <l>Says the 'Squire, with all my Heart:</l>
+               <l>I long to enjoy the Bliss:</l>
+               <l>Poor Souls they eagerly did meet,</l>
+               <l>To take a parting Kiss:</l>
+               <l>Their Lips, O then were loath to part</l>
+               <l>At last he burst in Tears:</l>
+               <l>Saying, I value nothing but</l>
+               <l>This Life of you, my Dear</l>
+            </div>
+            <div type="part">
+               <head>The Manner of the Procession of all the holy Fathers, Monks, Jesuits, and Priests, from the Inquisition house to the Place of Execution; and their horrid Barbarity is called an holy Act of Faith.</head>
+               <l>YOU need not value that my Love.</l>
+               <l>We soon shall meet again:</l>
+               <l>Who'd grudge to die, when such a glori<g ref="char:EOLhyphen"/>ous</l>
+               <l>Cause we now maintain?</l>
+               <l>Wh't are those Tortures we endure,</l>
+               <l>To those blest Joys above,</l>
+               <l>Which we shall soon in Heaven enjoy,</l>
+               <l>My Dear and only Love?</l>
+               <l>The trickling Tearsbedew'd their Check,</l>
+               <l>And loath they were to part:</l>
+               <l>The Jalior said, we must away,</l>
+               <l>Which touch'd them most at Heart</l>
+               <l>Then to the Place of Execution,</l>
+               <l>Hand in Hand they went;</l>
+               <l>While they were ying to the Stake,</l>
+               <l>There was an Order sent,</l>
+               <l>That the Lady t should strangled be,</l>
+               <l>Before that she was burnt.</l>
+               <l>Hearing, to the Messenger</l>
+               <l>She hastily then turn'd:</l>
+               <l>Go tell your Master now from me,</l>
+               <l>His Favour scorn I shall;</l>
+               <l>In all that he can me torment,</l>
+               <l>I value not at all.</l>
+            </div>
+            <div type="part">
+               <head>The 'Squire and his Lady at the Place of Execution.</head>
+               <l>THE Inquisitor hearing of this,</l>
+               <l>Again his Order sent,</l>
+               <l>That they should die the hardest Death</l>
+               <l>That ever could invent:</l>
+               <l>When both their Hands with Cords were tied,</l>
+               <l>Up to the fatal Stake.</l>
+               <l>They then did put unto their Feet,</l>
+               <l>A great and mighty Weight.</l>
+               <l>And them they drawed up and down,</l>
+               <l>Near an Hour and more;</l>
+               <l>Yet notwithstanding all this While,</l>
+               <l>This Pain with Patience bore.</l>
+               <l>They were not seen to shed a Tear,</l>
+               <l>In the Torments they went through,</l>
+               <l>But loud continued singing Psalms,</l>
+               <l>And Hallelujahs too.</l>
+               <l>The Fire and the Fuizes then</l>
+               <l>They did begin to light.</l>
+               <l>And thrust the Fuizes in their Face,</l>
+               <l>Which was a dreadful Sight.</l>
+               <l>A frightful Storm of Thunder, Hail,</l>
+               <l>And Ligt'ning did descend</l>
+               <l>Upon these wicked Wretches, that</l>
+               <l>Did come to see their End.</l>
+               <l>'Soon as these blessed Soul's expir'd,</l>
+               <l>The dreadful Storm did cease,</l>
+               <l>And then the Sun his glorious Lustre</l>
+               <l>Greatly did increase,</l>
+               <l>These Wretches seiz'd upon their Wealth</l>
+               <l>And then in Scorn did say</l>
+               <l>Unto their Servants, you to <hi>England</hi>
+               </l>
+               <l>Now may go away,</l>
+               <l>And tell how we your Heretic</l>
+               <l>Master and Mistress used,</l>
+               <l>Because they remained obstinate,</l>
+               <l>And did our Laws abuse:</l>
+               <l>They thought to do just as they pleas'd</l>
+               <l>But they mistaken were,</l>
+               <l>And all such Heretics as they,</l>
+               <l>That will our Power dare.</l>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
